@@ -1,0 +1,8 @@
+1. git init
+2. git remote add
+3. git branch(branch-name)
+3. git add(filename.extension/)
+4. git status
+5. git commit-m"promise message"      
+6. git push-u  (remote-name) (beanch-name)
+7. git clone https.//github/nilaw2017/html-day-1.git
